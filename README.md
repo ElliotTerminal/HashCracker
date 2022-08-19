@@ -40,6 +40,6 @@ Do not use this tool for evil purposes !
 ## [!] Disclaimer
 ***This tool is developed for educational purposes. Here it demonstrates how hashing works. If anybody wants to gain unauthorized access to someones credentials, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The creator is not responsible for any misuse of HashCracker!***
 
-### This repository is open source to for all. So if you wish to copy this repository, please consider giving credit!
+### This repository is open source to all. So if you wish to copy this repository, please consider giving credit!
 
 ####  If this tool helped you, please consider staring this repository. Your stars will motivate me a lot!
