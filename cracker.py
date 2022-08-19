@@ -1,3 +1,14 @@
+# -*- coding: UTF-8 -*-
+# ToolName   : HashCracker
+# Author     : ElliotTerminal
+# Copyright  : ElliotTerminal (2022-2023)
+# Github     : https://github.com/ElliotTerminal
+# Description: HashCracker is a hash cracking tool in python
+# Language   : Python
+# If you copy open source code, consider giving credit
+
+
+
 import hashlib
 
 print(r"              ______ .______          ___       ______  __  ___  _______ .______                    ")
