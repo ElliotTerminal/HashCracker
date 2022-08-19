@@ -1,4 +1,13 @@
-# HashCracker - A tool to crack hash
+<h1 align="center">HashCracker</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Author-ElliotTerminal-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
+    
+### [√] Description :
+
+HashCracker - A tool to crack hash
 
 Use this tool to crack md5 hashes within few seconds.
 
@@ -20,13 +29,13 @@ Do not use this tool for evil purposes !
 
 ##### Run this Tool -
 
-- ```python3 pyphisher.py```
+- ```python3 HashCracker.py```
 
 ### Provided:
-
- - WordList is provided.
- - Some md5 hashes are also provided in 'md5hash.txt' for demonstration
- - main tool is 'cracker.py'
+ 
+- WordList is provided.
+- Some md5 hashes are also provided in 'md5hash.txt' for demonstration
+- main tool is 'HashCracker.py'
 
 ## [!] Disclaimer
 ***This tool is developed for educational purposes. Here it demonstrates how hashing works. If anybody wants to gain unauthorized access to someones credentials, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The creator is not responsible for any misuse of HashCracker!***
