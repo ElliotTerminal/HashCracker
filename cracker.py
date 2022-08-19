@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : HashCracker
 # Author     : ElliotTerminal
+# License    : GPL V3
 # Copyright  : ElliotTerminal (2022-2023)
 # Github     : https://github.com/ElliotTerminal
 # Description: HashCracker is a hash cracking tool in python
