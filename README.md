@@ -18,6 +18,10 @@ Do not use this tool for evil purposes !
 
 - ```git clone https://github.com/ElliotTerminal/HashCracker```
 
+##### Run this Tool -
+
+- ```python3 pyphisher.py```
+
 ### Provided:
 
  - WordList is provided.
