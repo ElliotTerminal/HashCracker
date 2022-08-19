@@ -53,3 +53,4 @@ for word in pass_file:
 
 if flag == 0:
     print("Password/Passphrase is not in the list")
+    
